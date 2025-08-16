@@ -4,6 +4,9 @@ A small, silly script created in a few minutes that lets you use **“OK Garmin�
 
 Instead of controlling a Garmin dashcam, this script listens for commands and executes keypresses for NVIDIA tasks.
 
+> [!NOTE]
+> This is not intended for practical use. The speech recognition engine doesn’t actually recognize the word "Garmin", so the script relies on fuzzy keyword matching to guess what you meant.
+
 ## Supported Voice Commands and Key Bindings
 
 | Voice Command               | Keypress    |
