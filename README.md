@@ -25,7 +25,7 @@ pip install SpeechRecognition pyautogui
 3. Run the script:
 
 ```bash
-python ok_garmin_nvidia.py
+python app.py
 ```
 
 4. Speak your commands naturally, e.g.,
