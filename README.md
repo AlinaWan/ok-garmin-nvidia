@@ -1,6 +1,6 @@
 # OK Garmin NVIDIA Commands
 
-A small, quick script created in a short amount of time that lets you use **“OK Garmin” voice commands** to trigger **NVIDIA-related actions** on your PC.
+A small, silly script created in a few minutes that lets you use **“OK Garmin” voice commands** to trigger **NVIDIA-related actions** on your PC.
 
 Instead of controlling a Garmin dashcam, this script listens for commands and executes keypresses for NVIDIA tasks.
 
